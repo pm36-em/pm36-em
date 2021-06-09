@@ -10,6 +10,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="Profile"
-        android:textSize="22sp"/>
+        android:textSize="25sp"/>
 
 </FrameLayout>
